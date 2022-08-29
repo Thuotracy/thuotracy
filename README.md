@@ -42,9 +42,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thuotracy&show_icons=true&locale=en" alt="thuotracy" /></p>
 
-<br>
+<br><br>
 
-<p><br><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thuotracy&" alt="thuotracy" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thuotracy&" alt="thuotracy" /></p>
 
 <br><br>
 
