@@ -44,7 +44,7 @@
 
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thuotracy&" alt="thuotracy" /></p>
+<p><br><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thuotracy&" alt="thuotracy" /></p>
 
 <br><br>
 
