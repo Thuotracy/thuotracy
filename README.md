@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Tracy Wangari</h1>
 <h3 align="center">Highly motivated, disciplined and professional with great passion for working with and getting accustomed to technology as it advances. Works well both as an individual and with a team. I believe my skills would help with the expansion the world is undergoing in the technological aspect and I want to be part of the growth.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thuotracy&label=Profile%20views&color=0e75b6&style=flat" alt="thuotracy" /><br><br> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thuotracy&label=Profile%20views&color=0e75b6&style=flat" alt="thuotracy" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thuotracy" alt="thuotracy" /></a> </p>
 
 - 🔭 I’m currently working at **Code Kenya**
 
-- 🌱 I’m currently learning **React, Odoo Intergration**
+- 🌱 I’m currently learning **Odoo Integration**
+
+- 🤝 I’m looking for help with **React, Flask**
 
 - 📫 How to reach me **tracyjacobs775@gmail.com**
 
@@ -24,4 +26,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thuotracy&show_icons=true&locale=en" alt="thuotracy" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thuotracy&" alt="thuotracy" /></p>
+
 
