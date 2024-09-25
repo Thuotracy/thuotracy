@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tracy Wangari</h1>
+
 <h3>Highly motivated, disciplined and professional with great passion for working with and getting accustomed to technology as it advances. Works well both as an individual and with a team. I believe my skills would help with the expansion the world is undergoing in the technological aspect and I want to be part of the growth. </h3>
 
 <img align="right" alt="Coding" width="400"  src="https://i.pinimg.com/originals/34/fb/b9/34fbb9aa7bfeb8df98412067d64c2029.gif"/>
