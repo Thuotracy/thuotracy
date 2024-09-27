@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thuotracy&label=Profile%20views&color=0e75b6&style=flat" alt="thuotracy" " /> </p>
 
-- 🔭 I’m currently working at **Code Kenya**
+- 🔭 I’m currently working at **Brilliantke**
 
-- 🌱 I’m currently learning **Odoo Integration**
+- 🌱 I’m currently learning **PHP**
 
 - 🤝 I’m looking for help with **React, Flask**
 
